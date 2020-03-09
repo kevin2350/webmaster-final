@@ -179,10 +179,13 @@ hr.solid {
 .carousel {
   margin-left: 300px;
   margin-right: 300px;
+  width: 100%;
+  height: auto;
 }
 
 .carousel .item {
-  height: 500px;
+  width: 100%;
+  height: auto;
 }
 
 .projects h3 {
