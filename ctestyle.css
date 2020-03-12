@@ -235,13 +235,12 @@ section {
 .column {
   float: left;
   width: 33.3%;
-  text-align: center;
-  align-items: relative;
 }
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin: 8px;
+  align-items: center;
 }
 
 .card p {
@@ -250,11 +249,10 @@ section {
   margin-left: 50px;
   margin-right: 50px;
   font-size: 20px;
-  position: absolute;
 }
 
 .card img {
-  
+  position: absolute;
 }
 
 .button {
