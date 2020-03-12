@@ -252,7 +252,7 @@ section {
 }
 
 .card img {
-  position: absolute;
+  position: relative;
 }
 
 .button {
