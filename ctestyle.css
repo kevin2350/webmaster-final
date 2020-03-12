@@ -128,9 +128,6 @@ body, html {
 }
 
 .item img {
-  position: absolute;
-  top: 0;
-  left: 0;
   min-height: 300px;
   height: auto;
   width: 100%;
@@ -252,6 +249,10 @@ section {
   margin-left: 50px;
   margin-right: 50px;
   font-size: 20px;
+}
+
+.card img {
+  position: relative;	
 }
 
 .button {
